@@ -16,6 +16,9 @@ public class MathLive {
     public static void main(String[] args) {
     int x=5;
         System.out.println("HELLO WORLD" + x);  
+        System.out.println("HELLO WORLD" + x);  
+        System.out.println("HELLO WORLD" + x);  
+        System.out.println("HELLO WORLD" + x);  
     }
     
 }
